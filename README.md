@@ -4,9 +4,9 @@ by Tahmina Ringer
 
 ## Links/Resources
 
-- [GitHub PR](https://github.com/Tahmina-Ringer-401-advanced-javascript/bearer-auth/pull/2)
-- [Heroku-dashboard](https://dashboard.heroku.com/apps/bearer-auth-tahmina)
-- [Heroku-deployed](https://bearer-auth-tahmina.herokuapp.com/)
+- [GitHub PR](https://github.com/Tahmina-Ringer-401-advanced-javascript/auth-api/pull/1)
+- [Heroku-dashboard](https://dashboard.heroku.com/apps/auth-api-tahmina/activity)
+- [Heroku-deployed](https://auth-api-tahmina.herokuapp.com/)
 
 - Resource[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
